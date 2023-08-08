@@ -1,0 +1,72 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2013-01	46	4	44	6	0		fujacks,benign,leadbolt,adware,fjcon,fakeinst
+2013-02	35	15	34	16	0		benign,adwo,smsreg,airpush,zitmo
+2013-03	47	3	25	25	3	porfa,feejar,cardserv	updtkiller,feejar,porfa,jsmshider,fakeinst,benign,leadbolt,cardserv
+2013-04	45	5	35	15	1	perkel	perkel,fakeinst,benign,leadbolt,cardserv,smsreg,airpush
+2013-05	30	20	21	29	2	faketoken,virus	zitmo,fakeinst,virus,perkel,faketoken,smsreg,androrat,benign,smssend
+2013-06	47	3	43	7	1	revmob	benign,smsreg,fakeinst,smssend,airpush,revmob
+2013-07	48	2	34	16	0		smssend,smsreg,virus,fakeinst,adware,benign
+2013-08	47	3	45	5	1	vietsms	benign,fakeinst,gappusin,airpush,vietsms,adware
+2013-09	48	2	49	1	0		benign,fakeangry
+2013-10	48	2	50	0	0		benign
+2013-11	45	5	44	6	3	univert	benign,dowgin,smssend,airpush,univert
+2013-12	45	5	40	10	0		benign,gappusin,adware,leadbolt,airpush,kuguo
+2014-01	46	4	42	8	1	umpay	adware,fakeinst,benign,umpay,airpush,smssend
+2014-02	46	4	39	11	0		benign,smssend,fakeinst,dowgin,airpush,adware
+2014-03	44	6	9	41	13	igexin,smforw,mseg,uupay,infosteal,packed	updtkiller,smsreg,smforw,mseg,plankton,benign,smssend,igexin,uupay,packed,unknown,utchi,opfake,fakeinst,dowgin,adware,infosteal
+2014-04	49	1	49	1	1	skymobi	skymobi,benign
+2014-05	49	1	48	2	1	battpatch	battpatch,benign,smsreg
+2014-06	49	1	50	0	0		benign
+2014-07	50	0	50	0	0		benign
+2014-08	50	0	49	1	0		zitmo,benign
+2014-09	49	1	50	0	0		benign
+2014-10	49	1	49	1	1	secapk	secapk,benign
+2014-11	50	0	50	0	0		benign
+2014-12	50	0	50	0	0		benign
+2015-01	49	1	49	1	0		benign,airpush
+2015-02	48	2	48	2	1	kalfere	benign,kalfere,umpay
+2015-03	47	3	47	3	3	cimsci	benign,cimsci
+2015-04	49	1	48	2	0		smsreg,benign
+2015-05	48	2	48	2	0		benign,jsmshider,smsreg
+2015-06	49	1	50	0	0		benign
+2015-07	50	0	50	0	0		benign
+2015-08	49	1	49	1	1	lockscreen	benign,lockscreen
+2015-09	50	0	50	0	0		benign
+2015-10	50	0	49	1	0		benign,execdownload
+2015-11	49	1	49	1	0		benign,airpush
+2015-12	50	0	50	0	0		benign
+2016-01	50	0	50	0	0		benign
+2016-02	50	0	50	0	0		benign
+2016-03	49	1	49	1	1	shedun	benign,shedun
+2016-04	50	0	50	0	0		benign
+2016-05	49	1	49	1	1	gorpo	benign,gorpo
+2016-06	50	0	50	0	0		benign
+2016-07	50	0	50	0	0		benign
+2016-08	50	0	50	0	0		benign
+2016-09	49	1	48	2	0		fjcon,benign,adware
+2016-10	50	0	50	0	0		benign
+2016-11	50	0	50	0	0		benign
+2016-12	48	2	48	2	1	hiddad	benign,adware,hiddad
+2017-01	50	0	50	0	0		benign
+2017-02	49	1	49	1	1	ztorg	benign,ztorg
+2017-03	49	1	49	1	1	mobidash	benign,mobidash
+2017-04	48	2	48	2	0		benign,mobidash
+2017-05	49	1	49	1	0		benign,mobidash
+2017-06	50	0	49	1	0		benign,mobidash
+2017-07	50	0	50	0	0		benign
+2017-08	50	0	50	0	0		benign
+2017-09	50	0	50	0	0		benign
+2017-10	49	1	49	1	0		benign,smssend
+2017-11	47	3	46	4	2	cynos,wapron	benign,cynos,wapron,mobidash
+2017-12	50	0	48	2	0		packed,smsreg,benign
+2018-01	50	0	49	1	0		packed,benign
+2018-02	49	1	49	1	0		benign,packed
+2018-03	49	1	49	1	0		benign,wapron
+2018-04	48	2	42	8	0		mobidash,benign,wapron,execdownload
+2018-05	50	0	45	5	0		mobidash,benign
+2018-06	49	1	42	8	2	hqwar,tiggre	fakeinst,lockscreen,hqwar,cynos,mobidash,benign,tiggre
+2018-07	49	1	41	9	6	ransomware,slocker	ransomware,slocker,lockscreen,benign,airpush
+2018-08	48	2	48	2	0		benign,mobidash
+2018-09	49	1	47	3	2	smspay,penguin	benign,smspay,penguin,packed
+2018-10	50	0	14	36	1	smsspy	smsreg,tool,shedun,execdownload,smsspy,packed,benign
+2018-11	50	0	50	0	0		benign

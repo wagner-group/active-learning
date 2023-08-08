@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	1	9	1	9	5	lockscreen	lockscreen,benign,triada,execdownload
+2020-02	6	4	0	10	1	kuguo	execdownload,unknown,virtualapp,adware,infosteal,kuguo,benign
+2020-03	7	3	4	6	0		hiddad,benign,smsreg,adware,ewind
+2020-04	7	3	8	2	1	glodeagl	benign,glodeagl,clicks
+2020-05	0	10	0	10	2	mobby	mobby,adware,ewind,benign
+2020-06	5	5	2	8	0		resharer,benign,execdownload,wapron,hqwar,infosteal,wroba
+2020-07	10	0	1	9	0		benign,mobby,adware
+2020-08	6	4	7	3	0		benign,blacklister,infosteal
+2020-09	7	3	2	8	1	vmvol	vmvol,execdownload,windows,infosteal,benign
+2020-10	7	3	4	6	2	fakecop	boogr,benign,fakecop,execdownload,spyware
+2020-11	8	2	2	8	0		execdownload,infosteal,boogr,benign,fakecop
+2020-12	6	4	8	2	0		benign,execdownload,windows
+2021-01	6	4	6	4	4	droiddreamlight,geinimi	droiddreamlight,benign,geinimi
+2021-02	7	3	7	3	0		benign,infosteal,spyagent,adware
+2021-03	5	5	5	5	0		benign,execdownload,blacklister
+2021-04	5	5	5	5	0		execdownload,benign
+2021-05	6	4	3	7	0		benign,wroba,infosteal,execdownload
+2021-06	8	2	5	5	0		benign,infosteal,execdownload
+2021-07	5	5	8	2	2	droidkungfu,exploit	benign,exploit,droidkungfu
+2021-08	4	6	8	2	0		benign,execdownload,spyware
+2021-09	1	9	9	1	0		benign,execdownload
+2021-10	6	4	3	7	0		benign,execdownload,hqwar,infosteal
+2021-11	10	0	5	5	0		wroba,piom,execdownload,benign

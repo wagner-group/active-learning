@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	384	16	363	37	14	lockscreen	benign,execdownload,spyware,spymax,umpay,triada,virtualapp,lockscreen,hiddad
+2020-02	390	10	363	37	4	kuguo,congur,goldeneagle,glodeagl	benign,adware,ewind,congur,execdownload,spyware,goldeneagle,glodeagl,virtualapp,infosteal,hiddad,clicks,kuguo,boogr
+2020-03	381	19	371	29	0		benign,hiddad,infosteal,tool,wapron,hypay,spyware,adware,execdownload,smsreg,virtualapp,styricka
+2020-04	391	9	393	7	0		tool,spynote,benign,dnotua,robtes,execdownload,infosteal
+2020-05	399	1	394	6	0		tool,execdownload,spymax,benign,hiddad
+2020-06	390	10	386	14	1	teddad	tool,execdownload,jocker,benign,packed,adware,mobok,teddad,resharer,infosteal,hiddad
+2020-07	254	146	254	146	72	mobby,simpo	benign,styricka,mobby,adware,simpo,joker
+2020-08	398	2	303	97	0		benign,spyware,adware,mobby,ewind,execdownload,hqwar
+2020-09	395	5	300	100	0		benign,hqwar,infosteal,adware,ewind,mobby,execdownload,smforw
+2020-10	388	12	375	25	2	fakeadblocker,multiple	benign,smforw,infosteal,execdownload,joker,multiple,hqwar,fakeadblocker,adware,ewind
+2020-11	388	12	379	21	0		smforw,benign,execdownload,adware,fakeadblocker,boogr
+2020-12	400	0	395	5	0		benign,smforw,adware
+2021-01	386	14	368	32	26	kmin,droidkungfu,geinimi,droiddreamlight	benign,geinimi,droidkungfu,droiddreamlight,smforw,hiddad,server,kmin
+2021-02	379	21	362	38	0		benign,jocker,spyagent,joker,spyware,infosteal,packed,execdownload,ransomware,adware,smsreg,fakeapp,smspay
+2021-03	395	5	395	5	0		benign,spyware,infosteal,execdownload
+2021-04	374	26	336	64	5	polph,ibec	spymax,benign,infosteal,ibec,execdownload,packed,adware,polph,joker,resharer,fakeapp
+2021-05	391	9	363	37	2	ogel,fakedoc	spynote,server,ogel,benign,smforw,infosteal,execdownload,fakedoc,boogr,unknown,clicks,adware,jocker,fakeapp,joker
+2021-06	383	17	364	36	0		droidkungfu,benign,lockscreen,execdownload,triada,infosteal,packed,joker,adware,hiddad,jocker
+2021-07	392	8	218	182	0		benign,droidkungfu,jocker,execdownload,lockscreen,infosteal,sandr,spynote
+2021-08	371	29	347	53	0		benign,infosteal,spyware,clicks,execdownload
+2021-09	371	29	237	163	0		benign,execdownload,piom,infosteal,hiddad,wroba,styricka,smsreg
+2021-10	394	6	356	44	0		benign,infosteal,execdownload,wroba,hqwar,smsreg
+2021-11	390	10	355	45	0		benign,execdownload,wroba,piom,clicks,infosteal,wapron,unknown,server,smsreg,spyware

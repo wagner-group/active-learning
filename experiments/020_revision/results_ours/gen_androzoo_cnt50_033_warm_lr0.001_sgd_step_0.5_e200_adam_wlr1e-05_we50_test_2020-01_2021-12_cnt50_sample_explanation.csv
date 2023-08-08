@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	41	9	34	16	3	virtualapp,lockscreen,iconhider	iconhider,fakeapp,benign,adware,execdownload,lockscreen,syringe,virtualapp,triada,windows
+2020-02	27	23	23	27	1	congur	benign,congur,execdownload,infosteal,ewind,hiddad,adware,spyware
+2020-03	34	16	42	8	0		benign,infosteal,execdownload,adware
+2020-04	37	13	28	22	0		benign,infosteal,spyware,execdownload,adware
+2020-05	36	14	33	17	0		infosteal,benign,execdownload,hiddad,adware,ewind,boogr,resharer
+2020-06	38	12	34	16	1	blacklister	adware,benign,infosteal,execdownload,ewind,hiddad,hqwar,blacklister,resharer
+2020-07	44	6	6	44	20	mobby	benign,mobby,adware,infosteal
+2020-08	40	10	39	11	0		benign,execdownload,infosteal,blacklister,adware
+2020-09	38	12	25	25	4	fakeadblocker	infosteal,hiddad,benign,hqwar,jocker,execdownload,fakeadblocker,packed
+2020-10	48	2	3	47	0		infosteal,execdownload,hqwar,benign
+2020-11	39	11	12	38	5	fakecop	execdownload,infosteal,benign,fakecop,mobtool,smspay,adware,ewind
+2020-12	47	3	16	34	30	geinimi	benign,geinimi,packed,adware
+2021-01	12	38	15	35	0		benign,execdownload,adware,packed,blacklister
+2021-02	40	10	19	31	1	spyagent	benign,infosteal,adware,fakeapp,spyagent,smspay,spyware,execdownload,packed,smsreg
+2021-03	40	10	33	17	1	gustuff	benign,infosteal,spyware,adware,execdownload,joker,hiddad,gustuff
+2021-04	41	9	14	36	4	polph,spymax	execdownload,infosteal,polph,benign,packed,adware,fakeapp,spymax
+2021-05	32	18	11	39	1	fakedoc	boogr,execdownload,infosteal,smforw,benign,polph,joker,wroba,fakedoc,packed,smspay
+2021-06	46	4	19	31	0		lockscreen,benign,infosteal,execdownload,packed,adware,smspay,hiddad
+2021-07	31	19	29	21	1	exploit	execdownload,benign,infosteal,exploit,lockscreen
+2021-08	44	6	13	37	0		benign,spyware,infosteal,execdownload
+2021-09	21	29	28	22	0		infosteal,benign,piom,execdownload,hiddad
+2021-10	45	5	31	19	0		benign,infosteal,hqwar,execdownload
+2021-11	41	9	28	22	1	server	benign,spyware,infosteal,wroba,server,execdownload,piom,adware,smsreg,packed

@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	37	13	31	19	1	iconhider	syringe,execdownload,benign,adware,fakeapp,iconhider,clicks,umpay,triada,smsreg,packed,virtualapp
+2020-02	37	13	30	20	2	congur,kuguo	adware,virtualapp,benign,styricka,execdownload,congur,spyware,hiddad,kuguo
+2020-03	37	13	31	19	1	leadbolt	benign,infosteal,fakeapp,hiddad,execdownload,triada,leadbolt,spyware
+2020-04	36	14	30	20	1	goldeneagle	fakeapp,benign,robtes,infosteal,spyware,hiddad,goldeneagle,adware
+2020-05	25	25	27	23	4	mobby,mobilehunter,fakeadblocker	packed,adware,benign,infosteal,fakeapp,hiddad,resharer,fakeadblocker,mobby,smsreg,execdownload,mobilehunter
+2020-06	33	17	31	19	0		benign,infosteal,hqwar,hiddad,smforw,adware,jocker,fakeapp,execdownload,ewind,styricka,smsreg,resharer
+2020-07	17	33	16	34	0		mobby,benign,adware,infosteal
+2020-08	12	38	8	42	0		adware,benign,ewind,blacklister
+2020-09	38	12	9	41	0		adware,mobidash,hqwar,jocker,infosteal,benign,execdownload,hiddad
+2020-10	42	8	32	18	3	fakecop,multiple	infosteal,benign,execdownload,fakecop,dnotua,boogr,adware,blacklister,ewind,multiple
+2020-11	45	5	26	24	0		adware,boogr,benign,fakecop,infosteal,execdownload,ewind
+2020-12	44	6	50	0	0		benign
+2021-01	37	13	42	8	7	geinimi,droiddreamlight	benign,geinimi,hiddad,droiddreamlight
+2021-02	47	3	45	5	0		spyagent,benign,adware,infosteal,packed,jocker
+2021-03	46	4	45	5	0		benign,blacklister,infosteal,joker,spyware
+2021-04	41	9	40	10	3	ibec,polph	benign,polph,ibec,infosteal,resharer,execdownload,packed
+2021-05	44	6	38	12	1	fakedoc	adware,benign,infosteal,wroba,fakedoc,polph,joker,execdownload,boogr,smspay,packed
+2021-06	45	5	41	9	2	lockscreen	execdownload,infosteal,benign,lockscreen
+2021-07	40	10	39	11	3	exploit,droidkungfu	benign,infosteal,execdownload,droidkungfu,lockscreen,exploit
+2021-08	34	16	34	16	0		benign,infosteal,spyware,execdownload
+2021-09	30	20	39	11	0		benign,execdownload,piom,infosteal
+2021-10	46	4	43	7	0		infosteal,benign,execdownload,hqwar
+2021-11	46	4	44	6	0		wroba,benign,piom,spyware,infosteal

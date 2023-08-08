@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	25	25	5	45	16	lockscreen	resharer,adware,fakeapp,clicks,benign,packed,lockscreen,execdownload,spymax,spyware
+2020-02	12	38	4	46	3	glodeagl,goldeneagle,yuanpay	packed,wapron,tool,infosteal,glodeagl,goldeneagle,execdownload,yuanpay,fakeapp,clicks,benign,virtualapp,unknown,robtes,resharer,spyware,styricka
+2020-03	1	49	2	48	0		benign,resharer,wapron,spyware,packed,infosteal,execdownload,adware,clicks,smspay,robtes,spynote
+2020-04	0	50	1	49	0		benign,glodeagl,spynote,goldeneagle,adware,smforw,packed,spyware,wapron,infosteal,execdownload,lockscreen,resharer,robtes
+2020-05	9	41	7	43	2	xolco	smforw,packed,spymax,benign,wapron,robtes,infosteal,adware,execdownload,resharer,boogr,xolco,spyware,dnotua,smsreg
+2020-06	11	39	1	49	0		smforw,boogr,execdownload,spynote,adware,infosteal,styricka,hqwar,packed,resharer,ransomware,mobtool,benign,robtes
+2020-07	31	19	24	26	0		smforw,infosteal,adware,execdownload,hiddad,wapron,mobtool,styricka,benign,robtes,tool,spyware,hiddenads
+2020-08	28	22	22	28	1	funpay	benign,execdownload,infosteal,funpay,adware,unknown,spyware
+2020-09	19	31	11	39	0		smforw,benign,funpay,execdownload,hiddad,packed,resharer,windows,hiddenads,smspay,hqwar,infosteal,mobidash
+2020-10	30	20	9	41	2	fakecop	spyware,execdownload,smspay,smforw,benign,fakecop,unknown,hqwar,infosteal,brata,linux,boogr,ewind,adware
+2020-11	31	19	3	47	0		fakecop,benign,packed,execdownload,smforw,adware,infosteal,smspay,mobtool
+2020-12	24	26	17	33	0		packed,benign,fakecop,smforw,spynote,spyware,windows,execdownload,adware,ewind,clicks,infosteal
+2021-01	16	34	11	39	17	droiddreamlight,droidkungfu,geinimi	spyware,geinimi,droidkungfu,droiddreamlight,server,adware,benign,packed,smforw,windows,execdownload,infosteal,brata
+2021-02	33	17	31	19	0		infosteal,packed,smspay,adware,fakeapp,benign,spyware,spyagent,execdownload,smsreg
+2021-03	37	13	31	19	0		infosteal,hiddad,benign,spyware,packed,execdownload,adware,ewind
+2021-04	27	23	13	37	2	polph	spymax,benign,packed,adware,execdownload,infosteal,polph,clicks,fakeapp,smsthief
+2021-05	30	20	22	28	1	ogel	packed,server,ogel,smforw,polph,infosteal,boogr,spynote,smspay,execdownload,clicks,benign
+2021-06	31	19	24	26	0		infosteal,execdownload,hiddad,droidkungfu,packed,adware,smspay,lockscreen,benign
+2021-07	6	44	0	50	0		sandr,execdownload,spyware,infosteal,benign
+2021-08	20	30	4	46	0		execdownload,infosteal,benign,spynote,packed,unknown,windows
+2021-09	11	39	10	40	0		benign,execdownload,infosteal,packed
+2021-10	4	46	2	48	0		execdownload,infosteal,benign
+2021-11	35	15	14	36	0		adware,wroba,execdownload,packed,infosteal,wapron,benign,clicks

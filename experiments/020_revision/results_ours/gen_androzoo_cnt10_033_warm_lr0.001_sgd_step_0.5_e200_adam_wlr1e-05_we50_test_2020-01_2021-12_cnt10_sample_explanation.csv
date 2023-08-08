@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	6	4	5	5	1	iconhider	adware,benign,fakeapp,iconhider
+2020-02	8	2	6	4	0		benign,execdownload,infosteal,ewind,adware
+2020-03	6	4	8	2	0		benign,execdownload,infosteal
+2020-04	7	3	5	5	0		benign,infosteal,execdownload
+2020-05	6	4	9	1	0		benign,hiddad
+2020-06	7	3	4	6	0		execdownload,benign,hqwar,infosteal,hiddad
+2020-07	7	3	9	1	0		benign,infosteal
+2020-08	6	4	7	3	0		infosteal,benign,adware
+2020-09	7	3	6	4	0		benign,infosteal,execdownload
+2020-10	5	5	6	4	2	fakecop	execdownload,fakecop,benign,adware
+2020-11	8	2	5	5	0		benign,boogr,execdownload,adware
+2020-12	10	0	10	0	0		benign
+2021-01	8	2	10	0	0		benign
+2021-02	10	0	8	2	0		benign,smsreg,packed
+2021-03	9	1	9	1	0		benign,joker
+2021-04	8	2	3	7	0		benign,execdownload,fakeapp,packed,infosteal
+2021-05	3	7	1	9	1	polph	infosteal,execdownload,polph,benign,boogr,smspay
+2021-06	3	7	2	8	2	lockscreen	lockscreen,infosteal,execdownload,benign
+2021-07	5	5	8	2	0		benign,infosteal
+2021-08	3	7	2	8	0		execdownload,benign,infosteal
+2021-09	6	4	2	8	0		benign,execdownload,infosteal,piom
+2021-10	10	0	2	8	0		benign,infosteal
+2021-11	8	2	5	5	0		benign,infosteal,execdownload

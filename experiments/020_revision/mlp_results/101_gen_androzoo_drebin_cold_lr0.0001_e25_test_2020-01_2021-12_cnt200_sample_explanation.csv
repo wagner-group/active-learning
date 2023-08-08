@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	169	31	175	25	1	iconhider	clicks,benign,umpay,adware,packed,triada,syringe,virtualapp,execdownload,iconhider,dnotua,wapron
+2020-02	69	131	57	143	2	congur,kuguo	hiddad,execdownload,benign,adware,clicks,spyware,virtualapp,kuguo,dnotua,congur,infosteal
+2020-03	176	24	163	37	1	leadbolt	infosteal,benign,clicks,smsreg,adware,wapron,virtualapp,execdownload,leadbolt,hiddad,resharer,fakeapp,spyware,hypay
+2020-04	182	18	154	46	0		benign,infosteal,robtes,spyware,fakeapp,execdownload,adware,hiddad
+2020-05	173	27	163	37	1	mobilehunter	benign,adware,ewind,execdownload,boogr,fakeapp,smforw,resharer,hiddad,infosteal,dnotua,packed,mobilehunter,smsreg
+2020-06	169	31	156	44	5	fakeadblocker,teddad	benign,infosteal,clicks,hiddad,dnotua,hqwar,fakeadblocker,execdownload,adware,resharer,wroba,packed,smsreg,jocker,smforw,teddad,ewind,joker,fakeapp
+2020-07	113	87	95	105	54	hiddenapp,mobby,simpo	mobby,benign,infosteal,adware,simpo,fakeadblocker,hiddenapp,execdownload,mobtool,spyware
+2020-08	192	8	110	90	0		adware,benign,clicks,ewind,mobby,execdownload,joker,infosteal,dnotua
+2020-09	171	29	123	77	2	monitorminor,vmvol	benign,mobidash,ewind,fakeadblocker,hiddad,adware,resharer,monitorminor,linux,hqwar,packed,infosteal,execdownload,vmvol,jocker
+2020-10	191	9	156	44	3	fakecop,multiple	benign,execdownload,adware,multiple,ewind,fakeadblocker,infosteal,fakecop,brata,dnotua,blacklister,hqwar,joker,boogr,unknown
+2020-11	183	17	146	54	0		ewind,benign,adware,execdownload,fakecop,infosteal,fakeadblocker,joker
+2020-12	195	5	38	162	154	geinimi	geinimi,benign,packed,adware,ewind
+2021-01	180	20	169	31	12	droiddreamlight,kmin,droidkungfu	benign,hiddad,geinimi,droiddreamlight,droidkungfu,execdownload,kmin,windows,brata,unknown
+2021-02	193	7	181	19	0		benign,adware,spyagent,infosteal,jocker,ransomware,packed,smspay,joker,spyware
+2021-03	184	16	169	31	6	gustuff	benign,infosteal,blacklister,adware,mobby,execdownload,spyware,joker,ewind,gustuff
+2021-04	189	11	162	38	3	ibec,polph	benign,infosteal,polph,resharer,execdownload,adware,ibec,clicks,joker,packed
+2021-05	193	7	180	20	2	fakedoc,twmobo	benign,boogr,adware,wroba,execdownload,packed,joker,twmobo,fakedoc,clicks,polph,smforw,fakeapp,unknown,infosteal,smspay
+2021-06	188	12	176	24	2	lockscreen	benign,execdownload,lockscreen,infosteal,joker,triada,smspay,adware,packed,jocker
+2021-07	194	6	188	12	2	exploit	lockscreen,benign,execdownload,droidkungfu,exploit,infosteal,sandr
+2021-08	183	17	182	18	0		benign,infosteal,fakeadblocker,execdownload,spyware,spynote
+2021-09	178	22	162	38	0		hiddad,benign,execdownload,infosteal,piom,fakeadblocker
+2021-10	196	4	193	7	0		benign,execdownload,hqwar,infosteal
+2021-11	193	7	180	20	0		benign,piom,smsreg,infosteal,wroba,unknown,spyware,clicks,execdownload,packed

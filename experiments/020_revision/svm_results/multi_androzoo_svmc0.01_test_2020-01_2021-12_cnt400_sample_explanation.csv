@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	115	285	114	286	18	iconhider,lockscreen,lightriver	adware,resharer,benign,spymax,spyware,execdownload,fakeapp,clicks,packed,styricka,iconhider,lockscreen,unknown,lightriver,triada,robtes,smspay,wapron,virtualapp,umpay
+2020-02	211	189	198	202	7	payvideo,kuguo,goldeneagle,yuanpay,glodeagl	benign,glodeagl,goldeneagle,infosteal,yuanpay,execdownload,fakeapp,clicks,packed,shedun,triada,wapron,tool,virtualapp,styricka,spyware,unknown,robtes,resharer,adware,hqwar,payvideo,kyview,kuguo,boogr,dnotua
+2020-03	104	296	103	297	0		benign,infosteal,execdownload,resharer,adware,clicks,packed,wapron,spyware,tool,smspay,robtes,styricka,booster,spynote,ransomware,ewind,hiddad,fakeapp,smsreg,triada,cyfin,payvideo,unknown
+2020-04	173	227	158	242	1	guerrilla	spyware,benign,sandr,infosteal,goldeneagle,glodeagl,smforw,clicks,spynote,packed,robtes,execdownload,resharer,lockscreen,wapron,tool,hiddad,adware,unknown,remotecode,guerrilla,fakeapp,smspay,smsreg
+2020-05	87	313	83	317	28	generickdz,mobby,gsreg,xolco,fakeadblocker	smforw,boogr,benign,packed,resharer,spymax,adware,wapron,infosteal,robtes,xolco,execdownload,tool,unknown,fakeapp,dnotua,styricka,smsreg,spyware,mobby,ewind,necro,smspay,clicks,gsreg,fakeadblocker,generickdz,hiddad
+2020-06	255	145	228	172	1	funpay	smforw,resharer,execdownload,adware,styricka,tool,infosteal,wapron,hqwar,packed,benign,spynote,robtes,boogr,unknown,fakeadblocker,ransomware,hiddad,smsreg,ewind,funpay,mobtool,clicks,smspay,spyware,dnotua,wroba,jocker,fakeapp,ramnit
+2020-07	188	212	185	215	3	simpo,hiddenapp	smforw,tool,execdownload,benign,infosteal,wapron,robtes,hiddad,styricka,mobtool,fakeadblocker,hiddenapp,resharer,adware,hiddenads,spyware,mobby,simpo,mobok
+2020-08	123	277	118	282	0		benign,adware,execdownload,infosteal,funpay,unknown,styricka,spyware,hqwar,blacklister,ewind,mobby
+2020-09	191	209	176	224	3	mcalprotect,smsfactory	benign,smforw,execdownload,infosteal,packed,funpay,resharer,hiddad,windows,hqwar,ewind,adware,mobby,mobidash,fakeadblocker,smspay,mcalprotect,hiddenads,linux,smsfactory,smssend
+2020-10	310	90	287	113	5	fakecop,multiple	smspay,smforw,spyware,execdownload,hqwar,infosteal,blacklister,fakecop,unknown,benign,brata,fakeadblocker,adware,ewind,boogr,linux,multiple,dnotua,joker
+2020-11	316	84	266	134	0		benign,adware,infosteal,mobtool,smforw,execdownload,fakecop,packed,styricka,fakeadblocker,smspay,boogr,ewind,smsreg,joker
+2020-12	216	184	196	204	149	geinimi	fakecop,spynote,smforw,packed,benign,adware,infosteal,execdownload,windows,spyware,clicks,ewind,geinimi
+2021-01	194	206	174	226	8	droiddreamlight,droidkungfu	spyware,droiddreamlight,geinimi,benign,droidkungfu,adware,packed,infosteal,server,execdownload,smforw,brata,hiddad,windows,ewind
+2021-02	359	41	359	41	0		infosteal,fakeapp,packed,execdownload,spyware,benign,adware,smspay,spyagent,ransomware,smsreg,joker,jocker
+2021-03	301	99	277	123	10	gustuff	spyware,hiddad,execdownload,infosteal,benign,packed,adware,ewind,mobby,smsreg,blacklister,gustuff,joker,windows,clicks,fakeapp
+2021-04	341	59	328	72	5	ibec,polph	spymax,benign,polph,packed,execdownload,infosteal,fakeapp,adware,clicks,smsthief,joker,ibec,resharer
+2021-05	347	53	332	68	3	ogel,fakedoc,twmobo	spynote,server,ogel,execdownload,packed,wroba,infosteal,smforw,boogr,polph,smspay,benign,clicks,joker,twmobo,adware,fakedoc,unknown,jocker,fakeapp
+2021-06	362	38	356	44	0		droidkungfu,execdownload,hiddad,infosteal,adware,lockscreen,smspay,packed,benign,joker,jocker,triada
+2021-07	165	235	162	238	1	exploit	sandr,droidkungfu,benign,spyware,wapron,execdownload,infosteal,exploit,packed,adware,lockscreen,spynote,spyloan,jocker
+2021-08	281	119	233	167	0		benign,infosteal,execdownload,packed,spyware,spynote,windows,unknown,smsreg,fakeadblocker
+2021-09	305	95	282	118	0		infosteal,execdownload,benign,piom,wroba,styricka,packed,fakeadblocker,smspay,adware,ewind,hiddad
+2021-10	302	98	281	119	0		execdownload,benign,hqwar,infosteal,wroba,smsreg
+2021-11	369	31	346	54	0		wroba,execdownload,wapron,adware,benign,infosteal,packed,clicks,piom,server,spyware,unknown,smsreg

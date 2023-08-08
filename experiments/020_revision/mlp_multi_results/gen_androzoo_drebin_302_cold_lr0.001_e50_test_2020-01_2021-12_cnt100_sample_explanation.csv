@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	43	57	90	10	1	lockscreen	benign,adware,resharer,execdownload,lockscreen
+2020-02	62	38	84	16	4	goldeneagle,payvideo,yuanpay,glodeagl	benign,glodeagl,goldeneagle,hiddad,yuanpay,payvideo,styricka,wapron,infosteal,adware,clicks,execdownload
+2020-03	61	39	89	11	0		benign,payvideo,styricka,infosteal,wapron,clicks,packed,adware,resharer
+2020-04	40	60	79	21	0		benign,packed,glodeagl,spyware,clicks,execdownload,adware,resharer,fakeapp
+2020-05	53	47	84	16	1	mobby	benign,packed,infosteal,resharer,adware,hiddad,mobby,execdownload,tool,smforw
+2020-06	53	47	79	21	2	teddad,fakeadblocker	benign,robtes,execdownload,adware,fakeadblocker,packed,jocker,infosteal,hqwar,clicks,teddad,joker,wroba
+2020-07	67	33	92	8	0		benign,fakeadblocker,infosteal,execdownload,adware
+2020-08	40	60	55	45	0		benign,infosteal,adware,execdownload,ewind
+2020-09	12	88	60	40	3	funpay	benign,ewind,hqwar,adware,funpay,infosteal,packed,hiddad,fakeadblocker
+2020-10	50	50	71	29	0		benign,smforw,spyware,ewind,adware,execdownload,boogr,fakeadblocker,hqwar
+2020-11	28	72	85	15	4	fakecop	benign,fakecop,smforw,execdownload,fakeadblocker,adware,infosteal
+2020-12	38	62	50	50	48	geinimi	benign,geinimi,packed
+2021-01	55	45	90	10	0		geinimi,benign,smforw,adware
+2021-02	69	31	83	17	0		benign,adware,infosteal,smspay,spyagent,spyware,packed,joker
+2021-03	59	41	81	19	0		benign,ewind,adware,infosteal,execdownload,fakeapp,mobby
+2021-04	47	53	81	19	4	polph,ibec	benign,ibec,clicks,polph,adware,execdownload,packed,infosteal
+2021-05	35	65	82	18	1	twmobo	benign,clicks,infosteal,twmobo,packed,wroba,execdownload,adware,smforw,smspay,fakeapp
+2021-06	41	59	83	17	1	droidkungfu	lockscreen,infosteal,benign,execdownload,droidkungfu,adware,packed,smspay
+2021-07	61	39	90	10	0		benign,infosteal,lockscreen,execdownload,droidkungfu
+2021-08	34	66	88	12	0		benign,infosteal,execdownload,adware
+2021-09	7	93	95	5	0		benign,packed,execdownload,piom
+2021-10	33	67	97	3	0		benign,infosteal
+2021-11	44	56	84	16	0		benign,clicks,execdownload,piom,wroba,infosteal,server,unknown,adware,packed

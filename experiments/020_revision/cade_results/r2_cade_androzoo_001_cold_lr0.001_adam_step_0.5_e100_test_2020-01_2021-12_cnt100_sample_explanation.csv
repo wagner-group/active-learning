@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	89	11	89	11	1	lockscreen	benign,execdownload,spyware,spymax,umpay,triada,virtualapp,lockscreen
+2020-02	96	4	75	25	3	glodeagl,congur,goldeneagle	benign,adware,ewind,congur,execdownload,spyware,goldeneagle,glodeagl,virtualapp,infosteal,hiddad
+2020-03	85	15	77	23	0		benign,hiddad,infosteal,tool,wapron,hypay,spyware,adware,execdownload,smsreg
+2020-04	99	1	97	3	0		tool,spynote,benign,dnotua
+2020-05	99	1	94	6	0		tool,execdownload,spymax,benign,hiddad
+2020-06	98	2	95	5	0		tool,execdownload,jocker,benign,packed
+2020-07	100	0	100	0	0		benign
+2020-08	100	0	100	0	0		benign
+2020-09	100	0	100	0	0		benign
+2020-10	97	3	97	3	0		benign,infosteal,execdownload
+2020-11	99	1	99	1	0		benign,execdownload
+2020-12	100	0	100	0	0		benign
+2021-01	90	10	92	8	8	geinimi,droiddreamlight,kmin	benign,geinimi,kmin,droiddreamlight
+2021-02	100	0	100	0	0		benign
+2021-03	99	1	99	1	0		benign,spyware
+2021-04	96	4	92	8	2	polph	spymax,benign,polph,resharer,execdownload
+2021-05	97	3	88	12	2	ogel,twmobo	spynote,server,ogel,smforw,benign,wroba,twmobo,packed
+2021-06	96	4	96	4	0		benign,packed,adware,execdownload
+2021-07	96	4	97	3	0		benign,infosteal
+2021-08	83	17	87	13	0		benign,execdownload,infosteal
+2021-09	49	51	64	36	0		benign,execdownload,wroba
+2021-10	77	23	51	49	0		infosteal,benign,execdownload,hqwar,wroba,smsreg
+2021-11	92	8	69	31	0		execdownload,wroba,benign,infosteal,unknown

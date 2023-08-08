@@ -1,0 +1,72 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2013-01	32	18	45	5	1	gedma	benign,gedma,fujacks,fakeplayer,gappusin,adware
+2013-02	36	14	34	16	1	smsagent	benign,exploit,adware,adwo,kuguo,viser,gappusin,smssend,airpush,ginmaster,smsreg,smsagent
+2013-03	34	16	19	31	4	pincer,droiddreamlight	benign,airpush,smsagent,smsreg,smssend,pincer,droiddreamlight,adware,youmi,unknown,smskey,opfake
+2013-04	49	1	14	36	2	perkel	fakeinst,benign,adware,smsagent,unknown,perkel
+2013-05	35	15	33	17	3	dianle,pushad,smforw	benign,adware,dianle,smssend,smforw,smsreg,airpush,unknown,exploit,rediassi,perkel,pushad,domob,kuguo
+2013-06	38	12	32	18	4	boqx,vidro,gonesixty,spybubble	benign,zitmo,smsreg,spybubble,boqx,fakeinst,airpush,gonesixty,fakeangry,smskey,smssend,vidro,leadbolt
+2013-07	42	8	32	18	4	spyware,feejar,reptilicus,umpay	benign,spyware,smskey,smsreg,reptilicus,unknown,feejar,umpay,fakeinst,mobiletx
+2013-08	35	15	35	15	5	juzi,infosteal,dowgin,kyview,badok	leadbolt,smssend,airpush,infosteal,benign,juzi,ksapp,adware,kuguo,dowgin,badok,kyview,smsreg
+2013-09	28	22	25	25	4	spam,fakekrb,minimob,systush	benign,boqx,systush,adware,fakekrb,execdownload,youmi,umpay,smsreg,fakeangry,airpush,minimob,spam,opfake,dowgin,gappusin,jsmshider
+2013-10	29	21	30	20	1	goldentouch	fakeinst,benign,smssend,adware,airpush,opfake,fakeplayer,smsreg,goldentouch,dowgin,boqx,viser
+2013-11	20	30	14	36	7	univert,gumen	adware,dowgin,benign,univert,smforw,boqx,airpush,gumen,leadbolt,smskey
+2013-12	30	20	23	27	10	dianjin,trackplus,admogo,secapk,skymobi	airpush,admogo,benign,umpay,wooboo,dianjin,smsreg,skymobi,secapk,nandrobox,adware,boqx,trackplus,domob,leadbolt,dowgin,minimob
+2014-01	34	16	29	21	0		benign,airpush,kyview,smsreg,ksapp,minimob,dowgin,adware,smssend,execdownload,youmi
+2014-02	32	18	30	20	2	igexin,clicks	benign,adware,minimob,secapk,smssend,airpush,clicks,igexin,smsreg,smskey
+2014-03	35	15	30	20	3	androrat,cova	unknown,benign,airpush,igexin,androrat,smskey,cova,gappusin,smsreg,minimob
+2014-04	34	16	30	20	5	systemmonitor,nqshield,pandaad,cimsci	systemmonitor,adware,dowgin,benign,opfake,smsreg,dnotua,smskey,cimsci,minimob,pandaad,nqshield,smssend
+2014-05	31	19	32	18	6	simplocker,cardserv	benign,simplocker,exploit,fakeinst,cardserv,gappusin,airpush,vidro,domob,secapk,opfake,smsreg,plankton
+2014-06	33	17	32	18	2	alycunis,packed	dowgin,benign,opfake,packed,androrat,adware,airpush,alycunis,infosteal,exploit,umpay,simplocker
+2014-07	20	30	24	26	3	chyapo,sms	benign,kyview,sms,airpush,infosteal,systush,chyapo,admogo,smsreg,minimob,systemmonitor
+2014-08	35	15	27	23	1	spyagent	benign,airpush,smssend,skymobi,smsreg,cimsci,spyagent,exploit,secapk,systemmonitor,adware,packed,feejar
+2014-09	33	17	26	24	7	svpeng,adflex,lime,qysly,cnzz,gidix	benign,packed,smsreg,secapk,umpay,svpeng,gappusin,domob,lime,airpush,dowgin,qysly,adware,gidix,adflex,kyview,cnzz
+2014-10	25	25	26	24	12	wroba,fakebank	smssend,benign,adware,smforw,fakebank,wroba,kyview,smsreg,exploit,infosteal
+2014-11	33	17	32	18	1	uupay	smsreg,benign,airpush,nqshield,dowgin,unknown,androrat,packed,svpeng,uupay,execdownload,secapk
+2014-12	30	20	40	10	0		benign,youmi,boqx,umpay,smsreg,airpush,minimob
+2015-01	37	13	27	23	3	kemoge,gorpo,fictus	secapk,smsreg,benign,airpush,gorpo,dowgin,execdownload,kemoge,gappusin,adwo,admogo,adware,fictus
+2015-02	34	16	38	12	0		benign,smsreg,nqshield,secapk,skymobi,systemmonitor
+2015-03	35	15	29	21	4	fogod,dingwe,apptrack	smsreg,dingwe,benign,apptrack,unknown,airpush,adware,fogod,secapk,gappusin,dowgin
+2015-04	34	16	36	14	1	ransomware	benign,gappusin,smssend,ransomware,viser,smsreg,adware,exploit,unknown,fictus,secapk,youmi
+2015-05	30	20	26	24	5	babyjc,smsthief,reaper,nineap,autoins	benign,secapk,smsreg,smsagent,autoins,reaper,exploit,adware,nineap,smsthief,babyjc,skymobi,airpush,dianle,gappusin
+2015-06	37	13	34	16	1	fadeb	benign,smssend,adware,airpush,fadeb,minimob,opfake,systemmonitor,secapk,exploit,gedma
+2015-07	34	16	21	29	8	kalfere,sandr,pesabti,dials,rooter,zdtad,ewind	execdownload,benign,airpush,reaper,dials,rooter,opfake,kalfere,ewind,smssend,pesabti,wooboo,zdtad,simplocker,smforw,smsreg,sandr
+2015-08	37	13	27	23	7	shedun,premiumtext,lockscreen	benign,opfake,sms,shedun,umpay,infosteal,spyware,airpush,execdownload,lockscreen,premiumtext,smsreg,kalfere,smsagent
+2015-09	35	15	26	24	4	torec,marcher,sprovider,callpay	torec,callpay,airpush,marcher,opfake,smssend,benign,ransomware,lockscreen,dials,adware,kyview,fictus,sprovider,execdownload,ewind,unknown,smsreg
+2015-10	32	18	31	19	6	guerrilla,rootnik,baiduprotect,smspay	benign,rootnik,lockscreen,smsreg,smspay,adflex,guerrilla,adware,svpeng,baiduprotect,execdownload
+2015-11	44	6	37	13	2	boogr,jisut	benign,gappusin,execdownload,lockscreen,fakeapp,jisut,exploit,smssend,boogr,ransomware,rootnik
+2015-12	32	18	31	19	3	ztorg,fusob,kidlogger	kidlogger,benign,sprovider,exploit,admogo,ztorg,youmi,fakeapp,kalfere,adware,smsreg,execdownload,lockscreen,fusob
+2016-01	41	9	33	17	1	tekwon	smssend,benign,adflex,smsagent,minimob,packed,tekwon,fakeinst,unknown,smsreg,umpay,adware,clicks
+2016-02	34	16	39	11	1	triada	benign,adflex,smsreg,gappusin,umpay,smssend,adware,airpush,triada
+2016-03	36	14	32	18	8	revo,hypay	benign,revo,sms,hypay,unknown,fakeapp,smspay,exploit,ewind,infosteal,smsreg,execdownload
+2016-04	36	14	23	27	2	frupi,gluper	fakeapp,smsthief,fakeinst,benign,adflex,minimob,rootnik,unknown,packed,gluper,adware,lockscreen,smspay,infosteal,frupi
+2016-05	28	22	28	22	2	sivu,secneo	fakeapp,secneo,benign,triada,ewind,smsreg,unknown,execdownload,adware,windows,fakeinst,secapk,sivu,smsagent
+2016-06	37	13	36	14	4	hiddenapp,syringe,wapron	benign,exploit,adware,fakeapp,unknown,triada,wapron,smsreg,packed,syringe,secapk,hiddenapp
+2016-07	39	11	29	21	7	hiddad,loodos,gidby	benign,smsreg,loodos,hypay,hiddad,adware,gappusin,smspay,gidby,smssend,execdownload,hiddenapp
+2016-08	37	13	36	14	0		exploit,ewind,benign,smsreg,smspay,unknown,execdownload,clicks,kalfere,rooter
+2016-09	28	22	24	26	0		minimob,benign,sprovider,execdownload,smsreg,hiddenapp,fakeapp,ztorg
+2016-10	26	24	26	24	3	smsspy,tencentprotect	benign,cimsci,smspay,adware,infosteal,exploit,rootnik,smsreg,tencentprotect,smsspy
+2016-11	35	15	20	30	5	duad,skygofree,pornvideo,avpass,batmobi	benign,duad,gappusin,smsreg,syringe,skygofree,opfake,smsspy,adware,kuguo,tool,youmi,avpass,skymobi,batmobi,pornvideo,infosteal,umpay
+2016-12	32	18	24	26	4	joynow,panev,hidden,zadmo	hiddad,smsreg,benign,ewind,gumen,packed,adware,tencentprotect,fakeapp,zadmo,hidden,panev,wapron,execdownload,ztorg,skymobi,umpay,joynow,infosteal
+2017-01	41	9	19	31	7	cyfin,seldor,batmob,oveead,mobidash,virus	adware,sms,virus,syringe,smsreg,benign,smssend,batmob,mobidash,cyfin,fakeapp,gappusin,systemmonitor,hiddenapp,dnotua,oveead,clicks,sprovider,guerrilla,skymobi,seldor,domob,smsspy
+2017-02	41	9	40	10	0		benign,adware,smssend,dowgin,smskey,mobidash,tool,packed,hiddad
+2017-03	36	14	35	15	2	hasad,neospy	benign,adware,mobidash,smsreg,hasad,packed,ztorg,rootnik,kyview,syringe,neospy
+2017-04	40	10	33	17	1	lezok	lockscreen,benign,syringe,mobidash,adware,kuguo,smsreg,lezok,execdownload,ewind
+2017-05	44	6	24	26	1	mobby	benign,spyware,smforw,adware,mobidash,mobby,infosteal,sprovider,clicks,unknown,packed,execdownload,kyview,smsreg,apptrack,windows
+2017-06	46	4	45	5	1	ramnit	smsreg,benign,gappusin,adware,ramnit
+2017-07	33	17	34	16	1	hiddapp	cova,benign,adware,hiddapp,mobidash,hiddad,androrat,triada,baiduprotect,apptrack,dnotua,fakeapp
+2017-08	36	14	44	6	0		admogo,lezok,execdownload,benign,ramnit,kyview,mobidash
+2017-09	40	10	37	13	0		benign,execdownload,mobidash,hiddapp,hiddad,smskey,triada,shedun,fakeapp
+2017-10	41	9	38	12	0		benign,fakeapp,hiddad,adware,boogr,mobidash,cyfin,lockscreen,hiddapp
+2017-11	39	11	22	28	4	yoga,styricka,miner,linux	benign,fakeapp,miner,hiddad,mobidash,smsreg,lockscreen,dnotua,styricka,guerrilla,tencentprotect,smspay,sprovider,rooter,yoga,execdownload,linux,infosteal,wapron,ewind
+2017-12	38	12	37	13	4	loki,wihack,lockerpin	benign,styricka,gappusin,smssend,dnotua,wihack,miner,loki,virus,lockerpin,smsreg
+2018-01	36	14	31	19	1	itracker	adware,youmi,benign,execdownload,smsspy,clicks,itracker,autoins,hiddad,smsreg
+2018-02	43	7	38	12	1	hoverwatch	benign,clicks,execdownload,yoga,youmi,ewind,secapk,hoverwatch,adware
+2018-03	32	18	44	6	0		benign,hiddenapp,yoga,dowgin,lockscreen,tool
+2018-04	39	11	36	14	1	vpsdrop	benign,mobidash,boogr,hiddad,wapron,vpsdrop,hypay
+2018-05	41	9	43	7	2	adlock,hiddenads	benign,adware,adlock,packed,hiddenads,lockscreen,execdownload
+2018-06	34	16	23	27	7	robtes,metasploit,server,belesak,slocker,phonespy	belesak,slocker,robtes,exploit,fakeinst,infosteal,benign,smssend,metasploit,lockscreen,server,adware,shedun,smforw,phonespy,svpeng,smsreg,execdownload,airpush
+2018-07	35	15	39	11	2	rusms,elite	lockscreen,benign,unknown,adware,elite,airpush,hidden,smssend,smsreg,youmi,rusms
+2018-08	38	12	37	13	0		benign,dowgin,adware,shedun,smsreg,execdownload
+2018-09	41	9	15	35	0		vpsdrop,benign,dnotua,cyfin,guerrilla,smspay,smsreg,apptrack
+2018-10	35	15	19	31	0		wapron,windows,fakeapp,benign,dnotua,dowgin,smsreg,shedun
+2018-11	45	5	16	34	1	feiwo	benign,gappusin,smsreg,packed,feiwo,dnotua,adware,wapron,execdownload,styricka,kyview,virus,smsspy,shedun

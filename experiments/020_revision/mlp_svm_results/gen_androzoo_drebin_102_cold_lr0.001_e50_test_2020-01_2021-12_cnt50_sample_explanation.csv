@@ -1,0 +1,24 @@
+date	Correct	Wrong	Benign	Mal	New_fam_cnt	New_fam	Unique_fam
+2020-01	23	27	27	23	3	lockscreen	benign,lockscreen,packed,virtualapp,execdownload,fakeapp,clicks,smsreg,triada,resharer
+2020-02	22	28	26	24	0		benign,execdownload,packed,unknown,robtes,smsreg,hiddad,clicks,windows,infosteal
+2020-03	29	21	39	11	2	payvideo	benign,payvideo,smsreg,packed,infosteal,wapron
+2020-04	19	31	25	25	0		infosteal,packed,fakeapp,benign,lockscreen,robtes,smsreg,resharer
+2020-05	25	25	30	20	3	xolco,mobby,gsreg	packed,benign,robtes,execdownload,xolco,boogr,mobby,smsreg,ewind,adware,gsreg
+2020-06	28	22	26	24	1	fakeadblocker	benign,execdownload,infosteal,packed,ewind,smspay,boogr,adware,robtes,fakeadblocker
+2020-07	28	22	45	5	0		benign,styricka,adware,execdownload
+2020-08	28	22	18	32	1	funpay	funpay,benign,adware,infosteal,execdownload,smsreg
+2020-09	18	32	29	21	0		benign,execdownload,infosteal,ewind,funpay,hiddad
+2020-10	25	25	33	17	1	fakecop	benign,smforw,execdownload,brata,ewind,fakecop,boogr,infosteal,adware
+2020-11	26	24	35	15	0		benign,execdownload,fakecop,adware,infosteal
+2020-12	31	19	7	43	39	geinimi	geinimi,benign,infosteal,windows,packed
+2021-01	27	23	41	9	1	droidkungfu	benign,droidkungfu,adware,execdownload,smsreg,infosteal
+2021-02	35	15	28	22	0		adware,spyware,benign,infosteal,ransomware,execdownload,spyagent,packed,smsreg,jocker,smspay
+2021-03	33	17	31	19	0		benign,execdownload,infosteal
+2021-04	25	25	31	19	0		infosteal,benign,execdownload,spymax,packed,joker,fakeapp,adware
+2021-05	26	24	30	20	1	fakedoc	server,execdownload,infosteal,benign,packed,fakedoc,adware,clicks,boogr,smforw,spynote
+2021-06	30	20	30	20	0		execdownload,benign,infosteal,hiddad,joker,packed,smspay,adware,lockscreen
+2021-07	22	28	21	29	0		benign,execdownload,infosteal,packed
+2021-08	31	19	41	9	0		benign,execdownload,infosteal,clicks,spynote
+2021-09	27	23	30	20	0		benign,smsreg,packed,execdownload,infosteal
+2021-10	22	28	34	16	0		benign,infosteal,execdownload,smsreg,wroba
+2021-11	33	17	30	20	0		benign,execdownload,wroba,infosteal
