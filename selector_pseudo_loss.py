@@ -12,7 +12,7 @@ from scipy.spatial import KDTree
 from common import to_categorical
 from losses import HiDistanceXentLoss
 from selector_def import Selector
-from util import AverageMeter
+from utils import AverageMeter
 from train import pseudo_loss
 
 class LocalPseudoLossSelector(Selector):

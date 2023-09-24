@@ -7,6 +7,7 @@ Functions for loading data.
 """
 
 import numpy as np
+import os
 
 def load_range_dataset_w_benign(data_name, start_month, end_month, folder='data/'):
     if start_month != end_month:

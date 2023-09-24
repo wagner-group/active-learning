@@ -325,8 +325,7 @@ def train_encoder_one_epoch(args, encoder, train_loader, optimizer, epoch):
                                             y_pred, y_bin_batch, \
                                             features, labels = y_batch, \
                                             margin = args.margin, \
-                                            weight = weight_batch, \
-                                            no_unk_fam = args.no_unk_fam)
+                                            weight = weight_batch)
             
             # update metric
             losses.update(loss.item(), bsz)

@@ -296,7 +296,7 @@ def main():
 
     # train the encoder model if it does not already exist.
     # train mlp encoder in the classifier training step
-    if args.encoder in ['cae', 'enc']:
+    if args.encoder in ['cae', 'enc', 'simple-enc-mlp']:
         if args.retrain_first == True or not os.path.exists(ENC_MODEL_PATH):
             s1 = time.time()
             train_encoder_func(args, encoder, X_train_final, y_train_final, y_train_binary_final, \
