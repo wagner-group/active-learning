@@ -4,6 +4,7 @@ import logging
 import argparse
 import math
 import numpy as np
+import torch
 
 def parse_args():
     """Parse the command line configuration for a particular run.
